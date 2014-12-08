@@ -4,55 +4,31 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title></title>
+        <title>dev-discussions</title>
 
-        <link rel="stylesheet" href="http://shawnmccool.github.io/dev-discussions/css/bootstrap.min.css">
-        <link rel="stylesheet" href="http://shawnmccool.github.io/dev-discussions/css/font-awesome.min.css">
-        <link rel="stylesheet" href="http://shawnmccool.github.io/dev-discussions/css/highlight.dark.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap-theme.min.css">
         <link rel="stylesheet" href="http://shawnmccool.github.io/dev-discussions/css/main.css">
     </head>
     <body>
 
         <header class="navbar navbar-default navbar-fixed-top">
-
             <a class="navbar-brand" href="http://shawnmccool.github.io/dev-discussions/">
-                The title
-                <small class="hidden-xs hidden-sm">
-                    This is the default subtitle!
-                </small>
+                dev-discussions
             </a>
-
-            
         </header>
 
         <main class="container">
-            <div class="row">
-
-                
-                <section id="content" class="col-sm-12">
-                    <h1>stuff</h1>
-                </section>
-
-            </div>
+            <h1>stuff</h1>
         </main>
 
-        <footer>
-            <div class="container">
-                <p class="text-muted">
-                    website generated with <a href="http://couscous.io" title="Markdown website generator">Couscous</a>
-                </p>
-            </div>
-        </footer>
-
         <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
-        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
-        <script src="http://yastatic.net/highlightjs/8.2/highlight.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
 
         <script>
             $(function() {
-                $("section>h1").wrap('<div class="page-header" />');
-                // Syntax highlighting
-                hljs.initHighlightingOnLoad();
+                // Little tweak for <h1>
+                $("main > h1").wrap('<div class="page-header" />');
             });
         </script>
 
