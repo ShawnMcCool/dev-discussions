@@ -1,23 +1,12 @@
 template:
-    directory: website
-    url: https://github.com/CouscousPHP/Template-Light.git
+    directory: .
+    url: https://github.com/CouscousPHP/Template-Basic
 
-# List of directories to exclude from the processing (default contains "vendor" and "website")
-# Paths are relative to the repository root
 exclude:
     - vendor
-    - website
-
-scripts:
-    # Scripts to execute before generating the website
-    #before:
-    #    - cp bin/couscous.phar website/
-    # Scripts to execute after generating the website
-    #after:
-    #    - rm website/couscous.phar
 
 # Any variable you put in this file is also available in the Twig layouts:
-title: #dev-discussions
+title: "#Dev-Discussions - Question the status quo."
 
 # Base URL of the published website (no "/" at the end!)
 # You are advised to set and use this variable to write your links in the HTML layouts
