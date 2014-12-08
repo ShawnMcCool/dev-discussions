@@ -1,0 +1,4 @@
+.couscous
+/bin
+composer.lock
+/vendor

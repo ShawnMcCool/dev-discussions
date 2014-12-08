@@ -1,0 +1,19 @@
+{
+    "name": "shawnmccool/dev-discussions",
+    "authors": [
+        {
+            "name": "Shawn McCool",
+            "email": "shawn@heybigname.com",
+            "homepage": "http://heybigname.com/"
+        }
+    ],
+    "require": {
+        "couscous/couscous": "dev-master"
+    },
+    "require-dev": {
+    },
+    "config": {
+        "bin-dir": "bin"
+    },
+    "minimum-stability": "dev"
+}
