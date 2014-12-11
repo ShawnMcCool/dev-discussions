@@ -16,6 +16,6 @@ We can be found in #dev-discussions on irc.freenode.net. Come chat with us.
 
 We have published some videos on [our YouTube Channel](https://www.youtube.com/playlist?list=PLsTWLmFQ6CneW43wFxxFvATlvoB8a7o7s) and intend to continue doing so.
 
-# Additional Inforamtion
+# Additional Information
 
 This page was created with Couscous. More information can be found on [our Github repo](https://github.com/ShawnMcCool/dev-discussions).
