@@ -2,7 +2,7 @@
 
 Dev Discussions is the consequence of a movement to make public the thoughts of developers as they seek to improve their knowledge.
 
-Our core mission is to question the status quo and forever seek improvement. We believe that this can only be accomplished if we respect the following tenants.
+Our core mission is to question the status quo and forever seek improvement. We believe that this can only be accomplished if we respect the following tenets.
 
 - We expect one another to behave in a professional manner.
 - Everyone should be welcome. We must be always aware that other people have different experiences and needs than we do and accept this diversity as the positive value that it can be.
