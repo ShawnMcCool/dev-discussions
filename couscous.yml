@@ -1,5 +1,5 @@
 template:
-    directory: .
+    directory: website
     url: https://github.com/CouscousPHP/Template-Basic
 
 exclude:
