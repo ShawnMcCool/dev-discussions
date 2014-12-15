@@ -18,7 +18,7 @@ h2 {
     margin-left: 20px;
 }
 
-@media (max-width:900px) {
+@media(max-width:900px) {
     .container {
         margin-top: 70px;
     }
@@ -30,7 +30,7 @@ h2 {
     }
 }
 
-@media (max-width:560px) {
+@media(max-width:560px) {
     .container {
         margin-top: 85px;
     }
