@@ -12,7 +12,7 @@ Our core missions are to question the status quo and forever seek improvement. W
 
 ## Please Join Us. You are welcome.
 
-We can be found in #dev-discussions on irc.freenode.net. Come chat with us. There are no prerequisites. We would love to chat with you.
+We can be found in #dev-discussions on irc.freenode.net. There are no prerequisites. We would love to chat with you.
 
 ## Videos
 
