@@ -4,9 +4,9 @@ Have you ever noticed that there is a wealth of information for beginner develop
 
 We are a group dedicated to openly discussing software development techniques.
 
-Our core mission is to question the status quo and forever seek improvement. We believe that this can only be accomplished if we respect the following tenets.
+Our core missions are to question the status quo and forever seek improvement. We believe that this can only be accomplished if we respect the following tenets.
 
-- We expect one another to behave in a professional manner.
+- We respect one another and behave in a professional manner.
 - Everyone is welcome. We must be always aware that other people have different experiences and needs than we do and accept this diversity as the positive value that it can be.
 - We must strive to better understand the perspectives and techniques of others, for this is how we grow.
 
