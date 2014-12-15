@@ -1,6 +1,8 @@
 # About
 
-We are a group dedicated to openly discussion software development techniques.
+Have you ever noticed that there is a wealth of information for beginner developers, but it can be much more difficult to obtain helpful knowledge as you advance? Come hang out with us!
+
+We are a group dedicated to openly discussing software development techniques.
 
 Our core mission is to question the status quo and forever seek improvement. We believe that this can only be accomplished if we respect the following tenets.
 
