@@ -5,7 +5,7 @@ exclude:
     - vendor
 
 # Any variable you put in this file is also available in the Twig layouts:
-title: "#Dev-Discussions - Question the status quo."
+title: "#Dev-Discussions - Respectfully questioning the status quo."
 
 # Base URL of the published website (no "/" at the end!)
 # You are advised to set and use this variable to write your links in the HTML layouts
