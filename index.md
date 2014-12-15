@@ -1,16 +1,16 @@
 # About
 
-Dev Discussions is the consequence of a movement to make public the thoughts of developers as they seek to improve their knowledge.
+We are a group dedicated to openly discussion software development techniques.
 
 Our core mission is to question the status quo and forever seek improvement. We believe that this can only be accomplished if we respect the following tenets.
 
 - We expect one another to behave in a professional manner.
-- Everyone should be welcome. We must be always aware that other people have different experiences and needs than we do and accept this diversity as the positive value that it can be.
-- We must strive to better understand the perspectives of others, for this is how we grow.
+- Everyone is welcome. We must be always aware that other people have different experiences and needs than we do and accept this diversity as the positive value that it can be.
+- We must strive to better understand the perspectives and techniques of others, for this is how we grow.
 
-# Please Join Us
+# Please Join Us. You are welcome.
 
-We can be found in #dev-discussions on irc.freenode.net. Come chat with us.
+We can be found in #dev-discussions on irc.freenode.net. Come chat with us. There are no prerequisites. If you can behave respectfully, we would love to chat with you.
 
 # Videos
 
