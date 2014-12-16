@@ -1,4 +1,4 @@
-## Coming Up!
+## Coming Up - A Discussion on Command-Oriented Interfaces!
 
 Ross Tuck, Jesse O' Brien, and Shawn McCool will be talking about command-oriented interfaces and more (command bus, etc) this Friday. Come check it out live on [Google Hangouts](https://plus.google.com/events/ccnp38ae1jab80h5h3uhp1811c0)!
 
