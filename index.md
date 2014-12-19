@@ -1,6 +1,6 @@
-## Coming Up - A Discussion on Command-Oriented Interfaces!
+## Coming Up - A discussion on DDD tactical design patterns!
 
-Ross Tuck, Jesse O' Brien, and Shawn McCool will be talking about command-oriented interfaces and more (command bus, etc) this Friday. Come check it out live on [Google Hangouts](https://plus.google.com/events/ccnp38ae1jab80h5h3uhp1811c0)!
+Ross Tuck, Jesse O' Brien, and Shawn McCool will be talking about some design patterns (including command bus, etc) this Friday. Come check it out live on [Google Hangouts](https://plus.google.com/events/ccnp38ae1jab80h5h3uhp1811c0)!
 
 ## About #Dev-Discussions
 
